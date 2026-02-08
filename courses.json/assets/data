@@ -1,0 +1,82 @@
+[
+  {
+    "id": "c001",
+    "title": "أساسيات البرمجة بلغة Python",
+    "category": "برمجة",
+    "instructor": "د. أحمد علي",
+    "duration": "8 أسابيع",
+    "price": "اسأل عن السعر",
+    "shortDesc": "مدخل عملي إلى لغة Python مع مشاريع تطبيقية.",
+    "image": "https://placehold.co/600x400/1a1a2e/FFF?text=Python"
+  },
+  {
+    "id": "c002",
+    "title": "تطوير واجهات الويب (HTML/CSS/JS)",
+    "category": "برمجة",
+    "instructor": "م. محمد صلاح",
+    "duration": "10 أسابيع",
+    "price": "اسأل عن السعر",
+    "shortDesc": "بناء مواقع تفاعلية مع أفضل تقنيات الواجهة.",
+    "image": "https://placehold.co/600x400/1a1a2e/FFF?text=Frontend"
+  },
+  {
+    "id": "c003",
+    "title": "تصميم جرافيك وموشن جرافيك",
+    "category": "تصميم",
+    "instructor": "أ. سارة يوسف",
+    "duration": "6 أسابيع",
+    "price": "اسأل عن السعر",
+    "shortDesc": "تعلم مبادئ التصميم والمونتاج والموشن باستخدام أدوات حديثة.",
+    "image": "https://placehold.co/600x400/1a1a2e/FFF?text=Design"
+  },
+  {
+    "id": "c004",
+    "title": "التسويق الرقمي واستراتيجيات السوشيال ميديا",
+    "category": "تسويق",
+    "instructor": "د. ريم حسين",
+    "duration": "5 أسابيع",
+    "price": "اسأل عن السعر",
+    "shortDesc": "استراتيجيات عملية لزيادة الوصول وتحويل الجمهور.",
+    "image": "https://placehold.co/600x400/1a1a2e/FFF?text=Marketing"
+  },
+  {
+    "id": "c005",
+    "title": "أمن المعلومات والمقدمة إلى السيبرانية",
+    "category": "أمن سيبراني",
+    "instructor": "م. خالد نصار",
+    "duration": "12 أسبوعًا",
+    "price": "اسأل عن السعر",
+    "shortDesc": "مبادئ الحماية، اختبار الاختراق، وتأمين الأنظمة.",
+    "image": "https://placehold.co/600x400/1a1a2e/FFF?text=CyberSecurity"
+  },
+  {
+    "id": "c006",
+    "title": "دورات اللغة الإنجليزية الاحترافية",
+    "category": "لغات",
+    "instructor": "أ. ليلى محمود",
+    "duration": "مستمر",
+    "price": "اسأل عن السعر",
+    "shortDesc": "مستويات مُدرجة مع ممارسات حديثة ومحادثات حقيقية.",
+    "image": "https://placehold.co/600x400/1a1a2e/FFF?text=English"
+  },
+  {
+    "id": "c007",
+    "title": "مبادئ قواعد البيانات وSQL",
+    "category": "برمجة",
+    "instructor": "م. سامر إبراهيم",
+    "duration": "4 أسابيع",
+    "price": "اسأل عن السعر",
+    "shortDesc": "تصميم قواعد بيانات واستعلامات فعّالة باستخدام SQL.",
+    "image": "https://placehold.co/600x400/1a1a2e/FFF?text=Database"
+  },
+  {
+    "id": "c008",
+    "title": "تحليل البيانات وPython للتعلّم الآلي",
+    "category": "بيانات",
+    "instructor": "د. منى كامل",
+    "duration": "10 أسابيع",
+    "price": "اسأل عن السعر",
+    "shortDesc": "مبادئ تحليل البيانات ودمجها مع أدوات ML البسيطة.",
+    "image": "https://placehold.co/600x400/1a1a2e/FFF?text=DataAnalysis"
+  }
+]

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الموقع الرسمي - نيو يالي</title>
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; font-family: 'Cairo', sans-serif; background: #0f0c29; color: white; }
+        .header-bar {
+            height: 50px;
+            background: #1a1a2e;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 15px;
+            border-bottom: 1px solid #333;
+        }
+        .header-bar a { color: #fff; text-decoration: none; font-size: 14px; }
+        .iframe-container { height: calc(100% - 50px); width: 100%; position: relative; }
+        iframe { width: 100%; height: 100%; border: none; }
+        .fallback-msg {
+            position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            text-align: center; width: 90%; max-width: 400px;
+        }
+        .btn {
+            background: #e94560; color: white; padding: 10px 20px; text-decoration: none;
+            border-radius: 5px; display: inline-block; margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header-bar">
+        <span>الموقع الرسمي</span>
+        <a href="index.html">❌ إغلاق</a>
+    </div>
+
+    <div class="iframe-container">
+        <div class="fallback-msg">
+            <h3>جاري تحميل الموقع...</h3>
+            <p>إذا لم يظهر الموقع خلال ثوانٍ، فقد يكون هناك قيود أمنية.</p>
+            <a href="https://www.new-yali.com/" target="_blank" class="btn">افتح في نافذة جديدة</a>
+        </div>
+        
+        <iframe src="https://www.new-yali.com/" sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>
+    </div>
+
+</body>
+</html>
